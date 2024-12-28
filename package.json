@@ -1,0 +1,22 @@
+{
+  "name": "com.varco.scene-switcher",
+  "version": "1.0.0",
+  "displayName": "Scene Switcher",
+  "description": "A tool for switching and launching scenes from the search menu, which is opened with hotkeys.",
+  "documentationUrl": "https://github.com/Varuzh29/scene-switcher/blob/main/README.md",
+  "keywords": [
+    "scene",
+    "switch",
+    "hotkey",
+    "menu",
+    "launch",
+    "switcher",
+    "scene switcher",
+    "scene switch",
+    "scene launcher"
+  ],
+  "author": {
+    "name": "VarCo",
+    "url": "https://t.me/+9EjekiH0imM3NmIy"
+  }
+}
