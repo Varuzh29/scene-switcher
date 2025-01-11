@@ -2,7 +2,7 @@
 A tool for switching and launching unity scenes from the search menu, which is opened with hotkeys.
 
 ## Installation
-Intall using the [unity package manager](https://docs.unity3d.com/Manual/upm-ui.html) with option - "Install package from git URL". 
+Install using the [unity package manager](https://docs.unity3d.com/Manual/upm-ui.html) with option - "Install package from git URL". 
 
 ![](https://user-images.githubusercontent.com/46207/79450714-3aadd100-8020-11ea-8aae-b8d87fc4d7be.png)
 
